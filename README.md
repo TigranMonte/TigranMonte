@@ -15,7 +15,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/i4MAH84pqe2m2a
 
 - :open_book: Exploring android development and new technologies.
 
-- :telescope: In my free time, I learning new tricks and read tech articles.
+- :telescope: In my free time, I learn new tricks and read tech articles.
 
 - :mailbox_with_no_mail: Contact me: tigranma@gmail.com
 
