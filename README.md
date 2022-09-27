@@ -9,7 +9,7 @@
 ### :man_technologist: About Me :
 
 
-I am an Android Developer <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="30"> from Krasnodar (Russia).
+I'm Android Developer <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="30"> from Krasnodar (Russia).
 
 - :briefcase: I’m currently working on android (Java, Kotlin)
 
